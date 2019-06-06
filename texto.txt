@@ -4,3 +4,6 @@ tres
 cuatro
 cinco
 ocho
+seis
+siete
+
